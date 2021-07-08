@@ -65,8 +65,11 @@ p {
 
 }
 
-#myPic{
-  width: 20vw;
+.mypic{
+  mix-width:25%;
+  position: absolute;
+  left:70%;
+  top:80%;
 }
 
 /* about me */
